@@ -2,6 +2,7 @@ Business  Problem:
 CO₂ Emission Forecasting from U.S. Electric Power Sector using SARIMA
 
 Workflow:
+
 	• Data exploration and visualization of monthly CO₂ emissions from natural gas usage.
 	• Stationarity checks using ADF tests and transformations (differencing, smoothing).
 	• Seasonal decomposition and exponential weighted moving averages.
